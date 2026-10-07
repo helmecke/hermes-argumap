@@ -1,0 +1,7 @@
+name: argumap
+version: 0.1.0
+description: Local, snapshot-bound argument graph operations.
+provides_tools:
+  - argumap_operation
+license: MIT
+tags: [argument-graph, local, sqlite]
