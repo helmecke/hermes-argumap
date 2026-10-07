@@ -2,7 +2,7 @@
 
 ## 1. Project foundation
 
-- [ ] 1.1 Create the Python package layout, `pyproject.toml`, test configuration, and local development documentation; verify a clean environment can discover the package and test suite.
+- [x] 1.1 Create the Python package layout, `pyproject.toml`, test configuration, and local development documentation; verify a clean environment can discover the package and test suite.
 - [ ] 1.2 Define domain enums and immutable data models for all required node, relation, label, case, snapshot, and verdict records; verify model validation unit tests pass.
 - [ ] 1.3 Document the deterministic label rule table and supported graph vocabulary in the package documentation; verify every documented type is covered by validation tests.
 
